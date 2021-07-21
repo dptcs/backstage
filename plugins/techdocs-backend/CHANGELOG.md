@@ -1,5 +1,15 @@
 # @backstage/plugin-techdocs-backend
 
+## 0.8.8
+
+### Patch Changes
+
+- 9266b80ab: Implements tech docs collator to retrieve and expose search indexes for entities that have tech docs configured
+- Updated dependencies
+  - @backstage/techdocs-common@0.6.9
+  - @backstage/catalog-client@0.3.17
+  - @backstage/backend-common@0.8.7
+
 ## 0.8.7
 
 ### Patch Changes
